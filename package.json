@@ -11,5 +11,8 @@
   "description": "",
   "dependencies": {
     "react-native-2024": "file:"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
   }
 }
